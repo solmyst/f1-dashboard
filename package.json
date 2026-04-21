@@ -1,0 +1,28 @@
+{
+  "name": "pit-wall-f1",
+  "version": "2.0.0",
+  "description": "F1 2026 Pit Wall Dashboard & Widget",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "build": {
+    "appId": "com.solmyst.pitwallf1",
+    "productName": "F1 Pit Wall",
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "nsis"
+    }
+  },
+  "author": "Anush Gupta",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^41.2.2",
+    "electron-builder": "^26.8.1",
+    "electron-packager": "^17.1.2"
+  }
+}
