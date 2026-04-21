@@ -2,7 +2,7 @@
 
 A high-fidelity, team-themed F1 dashboard designed for massive fans who want to track the race weekend with cinematic flair. This application transitions seamlessly from a data-heavy command center to a sleek, always-on-top desktop widget.
 
-![F1 Dashboard Concept](https://images.unsplash.com/photo-1533130061792-64b345e4a833?auto=format&fit=crop&q=80&w=1200)
+![F1 Dashboard Concept](https://images.pexels.com/photos/29242302/pexels-photo-29242302.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## 🌟 Key Features
 
